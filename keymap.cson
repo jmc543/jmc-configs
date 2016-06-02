@@ -1,0 +1,11 @@
+##############################################################################
+#JMC additions to Atom editor keymap.cson
+##############################################################################
+
+# map 'jk' to escape from insert mode to command mode with vim-mode plugin:
+'atom-text-editor.vim-mode.insert-mode':
+  'j k': 'vim-mode:activate-normal-mode'
+
+# map ':w' to save in command mode with vim-mode plugin:
+'atom-text-editor.vim-mode:not(.insert-mode)':
+  ': w': 'core:save'
