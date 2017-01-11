@@ -10,8 +10,14 @@ set vb
 set t_vb=
 "This unsets the "last search pattern" register by hitting return
 nnoremap <CR> :noh<CR><CR>:<backspace>
+
+"use jk sequence as a more convenient escape key
 imap jk <ESC>
+
 colorscheme torte
 set lines=50 columns=132
 set dir=%TMP%
 set backupdir=%TMP%
+
+"disable auto-continuation of comments
+autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
