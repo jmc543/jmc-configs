@@ -18,6 +18,7 @@ colorscheme torte
 set lines=50 columns=132
 set dir=%TMP%
 set backupdir=%TMP%
+set noundofile
 
 "disable auto-continuation of comments
 autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
