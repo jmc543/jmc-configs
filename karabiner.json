@@ -40,7 +40,9 @@
 								    {
                     			        "type": "frontmost_application_unless",
                     			        "bundle_identifiers": [
-                    			            "com.microsoft.rdc.macos"
+                    			            "com.microsoft.rdc.macos",
+											"com.vmware.horizon",
+											"com.lemonmojo.RoyalTSX.App"
                     			        ]
                     			    }
                     			]
@@ -67,7 +69,9 @@
 								    {
                     			        "type": "frontmost_application_unless",
                     			        "bundle_identifiers": [
-                    			            "com.microsoft.rdc.macos"
+                    			            "com.microsoft.rdc.macos",
+											"com.vmware.horizon",
+											"com.lemonmojo.RoyalTSX.App"
                     			        ]
                     			    }
                     			]
@@ -94,7 +98,9 @@
 								    {
                     			        "type": "frontmost_application_unless",
                     			        "bundle_identifiers": [
-                    			            "com.microsoft.rdc.macos"
+                    			            "com.microsoft.rdc.macos",
+											"com.vmware.horizon",
+											"com.lemonmojo.RoyalTSX.App"
                     			        ]
                     			    }
                     			]
@@ -121,7 +127,9 @@
 								    {
                     			        "type": "frontmost_application_unless",
                     			        "bundle_identifiers": [
-                    			            "com.microsoft.rdc.macos"
+                    			            "com.microsoft.rdc.macos",
+											"com.vmware.horizon",
+											"com.lemonmojo.RoyalTSX.App"
                     			        ]
                     			    }
                     			]
@@ -155,7 +163,9 @@
 								    {
                     			        "type": "frontmost_application_unless",
                     			        "bundle_identifiers": [
-                    			            "com.microsoft.rdc.macos"
+                    			            "com.microsoft.rdc.macos",
+											"com.vmware.horizon",
+											"com.lemonmojo.RoyalTSX.App"
                     			        ]
                     			    }
                     			]
@@ -190,7 +200,9 @@
 								    {
                     			        "type": "frontmost_application_unless",
                     			        "bundle_identifiers": [
-                    			            "com.microsoft.rdc.macos"
+                    			            "com.microsoft.rdc.macos",
+											"com.vmware.horizon",
+											"com.lemonmojo.RoyalTSX.App"
                     			        ]
                     			    }
                     			]
@@ -220,7 +232,9 @@
 								    {
                     			        "type": "frontmost_application_unless",
                     			        "bundle_identifiers": [
-                    			            "com.microsoft.rdc.macos"
+                    			            "com.microsoft.rdc.macos",
+											"com.vmware.horizon",
+											"com.lemonmojo.RoyalTSX.App"
                     			        ]
                     			    }
                     			]
