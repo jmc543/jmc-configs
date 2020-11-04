@@ -22,3 +22,11 @@ set noundofile
 
 "disable auto-continuation of comments
 autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
+
+if has('gui_running')
+  set guifont=Consolas:h11
+endif
+
+set ignorecase
+set smartcase
+
